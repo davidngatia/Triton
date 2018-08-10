@@ -1,7 +1,17 @@
 h1 {
 color: Blue;
 text-align: center;
+font-style: normal;
+font-family: fantasy;
+font-size: 30px;
 }
 body {
-  background-color: #ffe6e6
+  background-color: #4d0000
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 60%;
+length: 60;
 }
