@@ -6,5 +6,8 @@ font-family: fantasy;
 font-size: 30px;
 }
 body {
-  background-image: url(../images/nm.jpg);
+  background-image: url(../images/mm.jpg);
+}
+footer {
+  color: white;
 }
