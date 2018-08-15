@@ -1,6 +1,6 @@
-# {TRITON}
+# TRITON
 #### {this is a Triangle Tracker},{10th August 2018}
-#### By **{David Ngatia}**
+#### By David Ngatia
 ## Description
 {Triton allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all. .}
 ## Behavior Driven Development
@@ -13,4 +13,6 @@
 ## Support and contact details
 { Any issues or questions, ideas or concerns,or a contribution to the code. feel free to contact me through my email address; machngatia@gmail.com}
 ### License
-Copyright (c)Copyright {2018} **{David Ngatia}**
+MIT
+
+Copyright (c)Copyright {2018} **{David Ngatia
